@@ -1,7 +1,7 @@
 name: Mosaika
 favicon: null
-layout_spectrum: 0.590797430370003
-typography_spectrum: 0.17050443356856704
+layout_spectrum: 0.37342
+typography_spectrum: 0.6696
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.30835580290295184
-  lightness: 0.590374490711838
-  saturation: 0.3215794281568378
-  rhythmicContrast: 0.23142191115766764
+    - '#3b342e'
+    - '#b4a797'
+    - '#ede8e4'
+    - '#746b62'
+    - '#060b0f'
+  brandStrength: 0.375
+  lightness: 0.5
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
