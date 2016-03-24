@@ -12,8 +12,8 @@ inLanguage: it
 app_links: []
 isBasedOnUrl: 'http://iosi.cartasi.it/ricerca-premi/novita-per-te/set-tazze-impilabili/'
 title: Set tazze impilabili - CartaSi
-datePublished: '2016-03-24T16:51:18.001Z'
-dateModified: '2016-03-24T16:50:08.214Z'
+datePublished: '2016-03-24T17:00:40.012Z'
+dateModified: '2016-03-24T16:49:57.930Z'
 sourcePath: _posts/2016-03-24-set-tazze-impilabili-cartasi.md
 published: true
 inFeed: true
