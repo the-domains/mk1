@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Mosaika]]></title>
         <description><![CDATA[Mosaika]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mk1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 16:43:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 16:44:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mk1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined92e585a9-aa5d-45d6-9570-2a2472112260/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9b86bc5-93d0-4754-a846-71b439ceac95.png">]]></description>
+            <link>https://thegrid.ai/mk1/92e585a9-aa5d-45d6-9570-2a2472112260/index.html</link>
             <guid isPermaLink="false">92e585a9-aa5d-45d6-9570-2a2472112260</guid>
-            <pubDate>Thu, 24 Mar 2016 16:43:30 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 16:43:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
